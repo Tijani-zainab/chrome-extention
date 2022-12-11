@@ -2,7 +2,7 @@
 
 ### chrome browser extention
 
-    This extention helps salles rep easily collect data for their client and prospective customers, saved right in their browser
+#### This is a chrome extention tool that helps sales rep easily collect points for their prospective clients and customers ! saved right in your browser tab
 
 ### Technologies
     Vannila JS, Local storage, Html5 and CSS
